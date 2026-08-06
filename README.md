@@ -15,10 +15,10 @@
 <div align="left">
   <ul>
     <li>
-      <strong><a href="https://fundme-2026.vercel.app/">FUNDME</a></strong>: Confidential CrowdFunding Platform on Arbitrum, powered by iExec Nox Protocol.
+      <strong><a href="https://apps.apple.com/us/app/dialingo-multilingual-diary/id6761394603">Dialingo</a></strong>: AI-powered multilingual language learning diary.
     </li>
     <li>
-      <strong><a href="https://apps.apple.com/us/app/dialingo-multilingual-diary/id6761394603">Dialingo</a></strong>: AI-powered multilingual language learning diary.
+      <strong><a href="https://fundme-2026.vercel.app/">FUNDME</a></strong>: Confidential CrowdFunding Platform on Arbitrum, powered by iExec Nox Protocol.
     </li>
   </ul>
 </div>
